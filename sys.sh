@@ -1,4 +1,4 @@
-ï»¿#!/bin/bash
+#!/bin/bash
 
 echo "*******************************************************************";
 echo "                     BIENVENUE SUR MON PROJET SYS                  ";
